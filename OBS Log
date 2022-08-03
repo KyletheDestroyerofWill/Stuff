@@ -1,0 +1,150 @@
+13:44:34.449: CPU Name: AMD Ryzen 5 3600 6-Core Processor              
+13:44:34.449: CPU Speed: 3593MHz
+13:44:34.449: Physical Cores: 6, Logical Cores: 12
+13:44:34.449: Physical Memory: 16315MB Total, 12134MB Free
+13:44:34.449: Windows Version: 10.0 Build 19041 (revision: 1826; 64-bit)
+13:44:34.449: Running as administrator: false
+13:44:34.449: Aero is Enabled (Aero is always on for windows 8 and above)
+13:44:34.449: Windows 10 Gaming Features:
+13:44:34.449: 	Game DVR: On
+13:44:34.450: Sec. Software Status:
+13:44:34.452: 	Microsoft Defender Antivirus: enabled (AV)
+13:44:34.452: 	Windows Firewall: enabled (FW)
+13:44:34.452: Portable mode: false
+13:44:34.531: OBS 21.1.0 (64bit, windows)
+13:44:34.531: ---------------------------------
+13:44:34.541: ---------------------------------
+13:44:34.541: audio settings reset:
+13:44:34.541: 	samples per sec: 48000
+13:44:34.541: 	speakers:        2
+13:44:34.542: ---------------------------------
+13:44:34.542: Initializing D3D11...
+13:44:34.542: Available Video Adapters: 
+13:44:34.543: 	Adapter 1: NVIDIA GeForce GTX 1080
+13:44:34.543: 	  Dedicated VRAM: 4176478208
+13:44:34.543: 	  Shared VRAM:    4258985984
+13:44:34.543: 	  output 1: pos={0, 0}, size={1920, 1080}, attached=true
+13:44:34.543: 	  output 2: pos={-1920, 9}, size={1920, 1080}, attached=true
+13:44:34.545: Loading up D3D11 on adapter NVIDIA GeForce GTX 1080 (0)
+13:44:34.601: D3D11 loaded successfully, feature level used: 45056
+13:44:35.107: ---------------------------------
+13:44:35.107: video settings reset:
+13:44:35.107: 	base resolution:   1920x1080
+13:44:35.107: 	output resolution: 1920x1080
+13:44:35.107: 	downscale filter:  Lanczos
+13:44:35.107: 	fps:               60/1
+13:44:35.107: 	format:            NV12
+13:44:35.107: 	YUV mode:          709/Partial
+13:44:35.108: Audio monitoring device:
+13:44:35.108: 	name: Default
+13:44:35.108: 	id: default
+13:44:35.108: ---------------------------------
+13:44:35.110: Required module function 'obs_module_load' in module '../../obs-plugins/64bit/chrome_elf.dll' not found, loading of module failed
+13:44:35.111: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+13:44:35.133: [AMF] AMF Test failed due to one or more errors.
+13:44:35.133: Failed to initialize module 'enc-amf.dll'
+13:44:35.142: Required module function 'obs_module_load' in module '../../obs-plugins/64bit/libcef.dll' not found, loading of module failed
+13:44:35.142: LoadLibrary failed for '../../obs-plugins/64bit/libEGL.dll': The specified procedure could not be found.
+13:44:35.142:  (127)
+13:44:35.142: Module '../../obs-plugins/64bit/libEGL.dll' not loaded
+13:44:35.142: Required module function 'obs_module_load' in module '../../obs-plugins/64bit/libGLESv2.dll' not found, loading of module failed
+13:44:35.143: [browser_source: 'Version: 1.31.0']
+13:44:35.145: NVENC supported
+13:44:35.214: VLC found, VLC video source enabled
+13:44:35.216: No blackmagic support
+13:44:35.220: ---------------------------------
+13:44:35.220:   Loaded Modules:
+13:44:35.220:     win-wasapi.dll
+13:44:35.220:     win-mf.dll
+13:44:35.220:     win-dshow.dll
+13:44:35.220:     win-decklink.dll
+13:44:35.220:     win-capture.dll
+13:44:35.220:     vlc-video.dll
+13:44:35.220:     text-freetype2.dll
+13:44:35.220:     rtmp-services.dll
+13:44:35.220:     obs-x264.dll
+13:44:35.220:     obs-vst.dll
+13:44:35.220:     obs-transitions.dll
+13:44:35.220:     obs-text.dll
+13:44:35.220:     obs-qsv11.dll
+13:44:35.220:     obs-outputs.dll
+13:44:35.220:     obs-filters.dll
+13:44:35.220:     obs-ffmpeg.dll
+13:44:35.220:     obs-browser.dll
+13:44:35.220:     image-source.dll
+13:44:35.220:     frontend-tools.dll
+13:44:35.220:     enc-amf.dll
+13:44:35.220:     coreaudio-encoder.dll
+13:44:35.220: ---------------------------------
+13:44:35.220: ==== Startup complete ===============================================
+13:44:35.221: Encoder ID 'jim_nvenc' not found
+13:44:35.224: All scene data cleared
+13:44:35.224: ------------------------------------------------
+13:44:35.258: WASAPI: Device 'DELL ST2220L (NVIDIA High Definition Audio)' initialized
+13:44:35.283: WASAPI: Device 'Microphone (3- USB Audio Device)' initialized
+13:44:35.338: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds
+13:44:35.761: [window-capture: 'Window Capture'] update settings:
+13:44:35.761: 	executable: Photoshop.exe
+13:44:35.764: Switched to scene 'Scene 5'
+13:44:35.765: ------------------------------------------------
+13:44:35.765: Loaded scenes:
+13:44:35.765: - scene 'Scene':
+13:44:35.765:     - source: 'Color Source 2' (color_source)
+13:44:35.765:     - source: 'Game Capture 2' (game_capture)
+13:44:35.765:     - source: 'Color Source' (color_source)
+13:44:35.765:     - source: 'Game Capture 4' (game_capture)
+13:44:35.765:     - source: 'Game Capture 5' (game_capture)
+13:44:35.765:     - source: 'Game Capture 6' (game_capture)
+13:44:35.765:     - source: 'Display Capture 2' (monitor_capture)
+13:44:35.765:     - source: 'Game Capture' (game_capture)
+13:44:35.765: - scene 'Scene 2':
+13:44:35.765:     - source: 'Display Capture 2' (monitor_capture)
+13:44:35.765:     - source: 'Display Capture' (monitor_capture)
+13:44:35.765:     - source: 'Witcher' (game_capture)
+13:44:35.765:     - source: 'Insurg' (game_capture)
+13:44:35.765:     - source: 'MC 1.12' (game_capture)
+13:44:35.765:     - source: 'CK2' (game_capture)
+13:44:35.765:     - source: 'MC SNAP ' (game_capture)
+13:44:35.765: - scene 'Scene 3':
+13:44:35.765:     - source: 'Display Capture 2' (monitor_capture)
+13:44:35.765: - scene 'Monitor 1':
+13:44:35.765:     - source: 'Window Capture' (window_capture)
+13:44:35.765:     - source: 'Game Capture 3' (game_capture)
+13:44:35.765:     - source: 'Game Capture 7' (game_capture)
+13:44:35.765:     - source: 'Video Capture Device' (dshow_input)
+13:44:35.765:     - source: 'Video Capture Device 2' (dshow_input)
+13:44:35.765: - scene 'Scene 4':
+13:44:35.765:     - source: 'Display Capture 3' (monitor_capture)
+13:44:35.765: - scene 'Scene 5':
+13:44:35.765:     - source: 'Game Capture 8' (game_capture)
+13:44:35.765: ------------------------------------------------
+13:44:35.805: Video Capture Device 2: data.GetDevice failed
+13:44:35.805: Video Capture Device 2: Video configuration failed
+13:44:35.827: Video Capture Device: data.GetDevice failed
+13:44:35.827: Video Capture Device: Video configuration failed
+13:46:22.692: ---------------------------------
+13:46:22.692: video settings reset:
+13:46:22.692: 	base resolution:   1920x1080
+13:46:22.692: 	output resolution: 1920x1080
+13:46:22.692: 	downscale filter:  Lanczos
+13:46:22.692: 	fps:               60/1
+13:46:22.692: 	format:            NV12
+13:46:22.692: 	YUV mode:          709/Full
+13:46:22.704: Settings changed (advanced)
+13:46:22.704: ------------------------------------------------
+13:46:26.465: Switched to Preview/Program mode
+13:46:26.465: ------------------------------------------------
+13:46:27.247: Switched to scene 'Scene 5'
+13:46:27.248: Switched to regular Preview mode
+13:46:27.248: ------------------------------------------------
+13:46:40.747: adding 21 milliseconds of audio buffering, total audio buffering is now 64 milliseconds
+13:49:58.039: adding 21 milliseconds of audio buffering, total audio buffering is now 85 milliseconds
+13:52:46.679: Encoder ID 'jim_nvenc' not found
+13:52:46.689: Settings changed (outputs)
+13:52:46.689: ------------------------------------------------
+13:52:59.616: Switched to Preview/Program mode
+13:52:59.616: ------------------------------------------------
+13:53:00.426: Switched to scene 'Scene 5'
+13:53:00.427: Switched to regular Preview mode
+13:53:00.427: ------------------------------------------------
+13:53:17.420: adding 21 milliseconds of audio buffering, total audio buffering is now 106 milliseconds
